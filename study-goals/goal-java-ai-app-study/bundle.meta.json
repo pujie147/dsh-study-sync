@@ -7,12 +7,12 @@
   "title": "企业级 AI 应用落地（Java + LLM 工程化）",
   "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-09-18T07:59:42.040Z",
-  "deviceId": "dev-mu5c5ih9-8v3ver0f",
-  "digest": "d949d7a0026fcbabd0baa372404233acf0224946c49a5574fcd2289161429bf3",
-  "zipBytes": 1792443,
-  "zipSha256": "031da6d3af98f45c3e3771b8d2fd10c602264722ca1441ad6877226d5e496d4a",
-  "zipBlobSha": "6623e0060721b7d8bd4f592272043e79324a73dd",
+  "exportedAt": "2026-09-18T10:26:38.728Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "9a11a946b753a6f2e74c023337cc5a24ddba6c3f4cc01891fa732292ecb02f00",
+  "zipBytes": 1818843,
+  "zipSha256": "1a5e46e0183bee85dfbbbb0d6fb38e2e507f87296ca8f0621737ace643483630",
+  "zipBlobSha": "56647cfc1ef4e0740eb1a4122eea7c80e27f27b4",
   "sessions": [
     {
       "remoteId": "7bc770d0-2a87-47b7-aae7-eef9be410ba1",
@@ -30,14 +30,24 @@
       "rows": 223
     },
     {
+      "remoteId": "session-4283703d-fd5f-46f2-b819-eef3f4b5f97c",
+      "maxSeq": 20,
+      "rows": 21
+    },
+    {
       "remoteId": "session-45611d89-f244-41ee-b991-44ead769f312",
       "maxSeq": 626,
       "rows": 627
     },
     {
-      "remoteId": "session-95d2fb29-c304-4863-bdc2-bf3ba3e4a2b9",
+      "remoteId": "session-4f6887cc-6f6a-4aec-aba8-df3371e626cb",
       "maxSeq": 2,
       "rows": 3
+    },
+    {
+      "remoteId": "session-95d2fb29-c304-4863-bdc2-bf3ba3e4a2b9",
+      "maxSeq": 3,
+      "rows": 4
     },
     {
       "remoteId": "session-f2545aef-3a51-4282-835b-cf289935c9ac",
@@ -51,8 +61,8 @@
     }
   ],
   "counts": {
-    "files": 19,
+    "files": 14,
     "attachments": 0
   },
-  "pushedAt": "2026-09-18T07:59:42.062Z"
+  "pushedAt": "2026-09-18T10:26:38.744Z"
 }
