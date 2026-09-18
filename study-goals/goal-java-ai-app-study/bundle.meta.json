@@ -7,27 +7,52 @@
   "title": "企业级 AI 应用落地（Java + LLM 工程化）",
   "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-09-18T06:27:55.863Z",
-  "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "eb63341970dc482e68b161687be33ca6a1b12bdb7b2eee4a6122e61d68974e02",
-  "zipBytes": 116013,
-  "zipSha256": "d82332ae004723eac06e99588f229e9a7735ab490909f79e569ae9e00e879757",
-  "zipBlobSha": "9bb7750a865e37b6342ea814b01ad2471c067d77",
+  "exportedAt": "2026-09-18T07:59:42.040Z",
+  "deviceId": "dev-mu5c5ih9-8v3ver0f",
+  "digest": "d949d7a0026fcbabd0baa372404233acf0224946c49a5574fcd2289161429bf3",
+  "zipBytes": 1792443,
+  "zipSha256": "031da6d3af98f45c3e3771b8d2fd10c602264722ca1441ad6877226d5e496d4a",
+  "zipBlobSha": "6623e0060721b7d8bd4f592272043e79324a73dd",
   "sessions": [
     {
-      "remoteId": "session-4283703d-fd5f-46f2-b819-eef3f4b5f97c",
-      "maxSeq": 20,
-      "rows": 21
+      "remoteId": "7bc770d0-2a87-47b7-aae7-eef9be410ba1",
+      "maxSeq": 241,
+      "rows": 242
     },
     {
-      "remoteId": "session-4f6887cc-6f6a-4aec-aba8-df3371e626cb",
+      "remoteId": "session-08cd4696-c434-4a78-8a2f-49aabfeffb0a",
+      "maxSeq": 24,
+      "rows": 25
+    },
+    {
+      "remoteId": "session-1b1c0d27-d245-49f3-9b5d-e05a481d482d",
+      "maxSeq": 222,
+      "rows": 223
+    },
+    {
+      "remoteId": "session-45611d89-f244-41ee-b991-44ead769f312",
+      "maxSeq": 626,
+      "rows": 627
+    },
+    {
+      "remoteId": "session-95d2fb29-c304-4863-bdc2-bf3ba3e4a2b9",
       "maxSeq": 2,
       "rows": 3
+    },
+    {
+      "remoteId": "session-f2545aef-3a51-4282-835b-cf289935c9ac",
+      "maxSeq": 281,
+      "rows": 282
+    },
+    {
+      "remoteId": "session-f3f66ca5-cfe9-47e1-aba0-c9af012d2973",
+      "maxSeq": 292,
+      "rows": 293
     }
   ],
   "counts": {
-    "files": 7,
+    "files": 19,
     "attachments": 0
   },
-  "pushedAt": "2026-09-18T06:27:55.883Z"
+  "pushedAt": "2026-09-18T07:59:42.062Z"
 }
