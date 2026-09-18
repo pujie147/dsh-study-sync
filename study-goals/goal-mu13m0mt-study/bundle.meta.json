@@ -7,17 +7,17 @@
   "title": "学习软考中级设计师的知识点",
   "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-09-18T07:59:59.338Z",
-  "deviceId": "dev-mu5c5ih9-8v3ver0f",
-  "digest": "d4366391b715dd02fd5fdd337ed7997909884ef27736167021654b2c122cc439",
-  "zipBytes": 725894,
-  "zipSha256": "04e27ec531de396de9db133be8b460c233f1e5ebf16887f6411b9a41b275e4a8",
-  "zipBlobSha": "2dbf1929c5222f15ccdc89518adf76957d808d9d",
+  "exportedAt": "2026-09-18T10:27:13.807Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "9aa9ff7aadaaa755ddd2dc60e05373598d6b08c6146735dbe023cd1791f3f2da",
+  "zipBytes": 727297,
+  "zipSha256": "0eb54ff974ff2cc930719e1b824a1f53b28de1c75d51ce95c0822ec7112e9e95",
+  "zipBlobSha": "05dfd852c405f043bdc40c8537bcd641d4ecc570",
   "sessions": [
     {
       "remoteId": "session-81c1f398-83dc-4f44-9d19-b86f6fcceeee",
-      "maxSeq": 29,
-      "rows": 30
+      "maxSeq": 30,
+      "rows": 31
     },
     {
       "remoteId": "session-9ece1d5d-0f19-4efb-a77a-c535b2654681",
@@ -31,8 +31,8 @@
     }
   ],
   "counts": {
-    "files": 12,
+    "files": 9,
     "attachments": 0
   },
-  "pushedAt": "2026-09-18T07:59:59.371Z"
+  "pushedAt": "2026-09-18T10:27:13.815Z"
 }
