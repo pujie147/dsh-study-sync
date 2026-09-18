@@ -1,0 +1,22 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-ai-infra-study",
+  "goalLocalIdHint": "goal-ai-infra-study",
+  "title": "模型训练与推理 Infra（vLLM 服务化方向）",
+  "status": "researching",
+  "chapters": 0,
+  "exportedAt": "2026-09-18T08:00:14.029Z",
+  "deviceId": "dev-mu5c5ih9-8v3ver0f",
+  "digest": "4909e153eae3ff2cbff5f5e70fe81b4a40c207c1397789f140f9e4523989c1ac",
+  "zipBytes": 1776,
+  "zipSha256": "e578e925f8a892251e9ed550008b76c76846016692fa0a800bfe063cbecfe6a2",
+  "zipBlobSha": "9887046dbf3a006531311efd0c7e9d57d5b5b2c5",
+  "sessions": [],
+  "counts": {
+    "files": 1,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-18T08:00:14.041Z"
+}
