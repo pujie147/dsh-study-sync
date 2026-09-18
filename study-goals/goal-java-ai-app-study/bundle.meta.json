@@ -1,0 +1,33 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-java-ai-app-study",
+  "goalLocalIdHint": "goal-java-ai-app-study",
+  "title": "企业级 AI 应用落地（Java + LLM 工程化）",
+  "status": "active",
+  "chapters": 10,
+  "exportedAt": "2026-09-18T06:27:55.863Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "eb63341970dc482e68b161687be33ca6a1b12bdb7b2eee4a6122e61d68974e02",
+  "zipBytes": 116013,
+  "zipSha256": "d82332ae004723eac06e99588f229e9a7735ab490909f79e569ae9e00e879757",
+  "zipBlobSha": "9bb7750a865e37b6342ea814b01ad2471c067d77",
+  "sessions": [
+    {
+      "remoteId": "session-4283703d-fd5f-46f2-b819-eef3f4b5f97c",
+      "maxSeq": 20,
+      "rows": 21
+    },
+    {
+      "remoteId": "session-4f6887cc-6f6a-4aec-aba8-df3371e626cb",
+      "maxSeq": 2,
+      "rows": 3
+    }
+  ],
+  "counts": {
+    "files": 7,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-18T06:27:55.883Z"
+}
