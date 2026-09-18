@@ -1,0 +1,22 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-agent-enterprise-study",
+  "goalLocalIdHint": "goal-agent-enterprise-study",
+  "title": "Agent 企业级开发（编排·工具·治理）",
+  "status": "researching",
+  "chapters": 0,
+  "exportedAt": "2026-09-18T08:00:24.833Z",
+  "deviceId": "dev-mu5c5ih9-8v3ver0f",
+  "digest": "28aabc037d305896a082d7e3d560a7bbf0cceed3980618b246904d4d00418384",
+  "zipBytes": 2219,
+  "zipSha256": "5516c5c7179833d3ef4b8a6b36b1454955e5bf711f49bf3bcf8c6500ba7d6bb2",
+  "zipBlobSha": "a7f36214e19e9b450ee3ff9169cf2c08d58a52b7",
+  "sessions": [],
+  "counts": {
+    "files": 1,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-18T08:00:24.845Z"
+}
