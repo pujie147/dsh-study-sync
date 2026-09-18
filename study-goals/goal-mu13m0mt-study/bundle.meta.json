@@ -1,0 +1,38 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mu13m0mt-study",
+  "goalLocalIdHint": "goal-mu13m0mt-study",
+  "title": "学习软考中级设计师的知识点",
+  "status": "active",
+  "chapters": 10,
+  "exportedAt": "2026-09-18T07:59:59.338Z",
+  "deviceId": "dev-mu5c5ih9-8v3ver0f",
+  "digest": "d4366391b715dd02fd5fdd337ed7997909884ef27736167021654b2c122cc439",
+  "zipBytes": 725894,
+  "zipSha256": "04e27ec531de396de9db133be8b460c233f1e5ebf16887f6411b9a41b275e4a8",
+  "zipBlobSha": "2dbf1929c5222f15ccdc89518adf76957d808d9d",
+  "sessions": [
+    {
+      "remoteId": "session-81c1f398-83dc-4f44-9d19-b86f6fcceeee",
+      "maxSeq": 29,
+      "rows": 30
+    },
+    {
+      "remoteId": "session-9ece1d5d-0f19-4efb-a77a-c535b2654681",
+      "maxSeq": 51,
+      "rows": 52
+    },
+    {
+      "remoteId": "session-9ecf4de0-3326-4521-8e0d-12d672cb3abf",
+      "maxSeq": 520,
+      "rows": 521
+    }
+  ],
+  "counts": {
+    "files": 12,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-18T07:59:59.371Z"
+}
