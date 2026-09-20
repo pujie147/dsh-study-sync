@@ -1,0 +1,53 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mu9ijb0v-study",
+  "goalLocalIdHint": "goal-mu9ijb0v-study",
+  "title": "学习软考中级设计师",
+  "status": "active",
+  "chapters": 8,
+  "exportedAt": "2026-09-20T10:02:30.430Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "e01be4cc0fb613ea921a06a9c23ed6958b77e16f67647d45f325f7d2e0ad72a9",
+  "zipBytes": 740117,
+  "zipSha256": "50f5d00259d106b69eb33dd453727750251d59fda39bea0148bb85f4483e9c30",
+  "zipBlobSha": "21bfd0fb952ad2f918e1f2966dceb42b844f6737",
+  "sessions": [
+    {
+      "remoteId": "43f2d7a4-6204-44cf-a1a4-cb9a9b2a4065",
+      "maxSeq": 175,
+      "rows": 176
+    },
+    {
+      "remoteId": "649eb59e-8a1b-4caf-aee8-8283fa4750c0",
+      "maxSeq": 136,
+      "rows": 137
+    },
+    {
+      "remoteId": "ba55bb3d-552e-4e10-8320-7457bd0b47ee",
+      "maxSeq": 208,
+      "rows": 209
+    },
+    {
+      "remoteId": "f8f33a2c-adb6-47fe-877b-91366bbeca77",
+      "maxSeq": 172,
+      "rows": 173
+    },
+    {
+      "remoteId": "session-b469cb4c-969c-4ecd-9126-400a0620bfea",
+      "maxSeq": 175,
+      "rows": 176
+    },
+    {
+      "remoteId": "session-d7783396-df7e-45fa-b19d-ae27950fc407",
+      "maxSeq": 177,
+      "rows": 178
+    }
+  ],
+  "counts": {
+    "files": 10,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-20T10:02:30.438Z"
+}
