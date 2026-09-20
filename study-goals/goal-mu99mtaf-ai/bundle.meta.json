@@ -1,0 +1,78 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mu99mtaf-ai",
+  "goalLocalIdHint": "goal-mu99mtaf-ai",
+  "title": "为了更高的学习AI知识，需要补齐预科知识的学习",
+  "status": "active",
+  "chapters": 8,
+  "exportedAt": "2026-09-20T09:52:47.542Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "8bdbb4ce2558705163c6611c54732982c56e6f0dd08291a3e98f26dff3326f4c",
+  "zipBytes": 2399905,
+  "zipSha256": "76d42a674842775164efe65924484bce899b825070138cb0cbf600024887641e",
+  "zipBlobSha": "b6c744c309b0bd5c3530fc722a0b1cdb7371d79f",
+  "sessions": [
+    {
+      "remoteId": "0e849787-ff2d-44b5-b112-7846a20a63f1",
+      "maxSeq": 72,
+      "rows": 73
+    },
+    {
+      "remoteId": "39f9032e-d450-41a5-bf23-2025449cdab5",
+      "maxSeq": 249,
+      "rows": 250
+    },
+    {
+      "remoteId": "75878a69-25c5-4f73-b279-5bbcd463dd26",
+      "maxSeq": 376,
+      "rows": 377
+    },
+    {
+      "remoteId": "90e56d9d-3256-401b-81e8-c5883b5cd511",
+      "maxSeq": 305,
+      "rows": 306
+    },
+    {
+      "remoteId": "c89d65e5-848f-4f7b-89b9-93eb50417a32",
+      "maxSeq": 138,
+      "rows": 139
+    },
+    {
+      "remoteId": "c9358878-633e-4c92-8c74-34749b4d4e85",
+      "maxSeq": 178,
+      "rows": 179
+    },
+    {
+      "remoteId": "de926fbe-dafe-4f30-87bd-191866aa944e",
+      "maxSeq": 437,
+      "rows": 438
+    },
+    {
+      "remoteId": "session-43d443f3-a1ac-403a-9e11-28432c2ca5f2",
+      "maxSeq": 30,
+      "rows": 31
+    },
+    {
+      "remoteId": "session-812b01d6-7f18-4aef-bd08-d79c80349f38",
+      "maxSeq": 30,
+      "rows": 31
+    },
+    {
+      "remoteId": "session-b57c66bb-cc31-4b9a-81fb-c2cd30671f6e",
+      "maxSeq": 412,
+      "rows": 413
+    },
+    {
+      "remoteId": "session-f2f6cb67-4e41-4d6a-8688-2f49033f32d7",
+      "maxSeq": 30,
+      "rows": 31
+    }
+  ],
+  "counts": {
+    "files": 50,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-20T09:52:47.560Z"
+}
