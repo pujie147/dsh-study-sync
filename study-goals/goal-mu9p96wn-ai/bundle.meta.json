@@ -1,0 +1,33 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mu9p96wn-ai",
+  "goalLocalIdHint": "goal-mu9p96wn-ai",
+  "title": "企业级AI应用落地",
+  "status": "approved",
+  "chapters": 10,
+  "exportedAt": "2026-09-21T03:13:29.691Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "3e3cdba760e033e53b17ee4ffb07915c12a3d9d47e9c43c4fc12cdfdda2b6d13",
+  "zipBytes": 263377,
+  "zipSha256": "1877dbf2c14aaa94e0f9e41b2c3291fe3e0cb06be80e29f9de5a2454d2598f04",
+  "zipBlobSha": "8cb6afa0242da54f418d9e516c317823bdff3675",
+  "sessions": [
+    {
+      "remoteId": "1476b5c2-0cd2-4f20-9350-47eed8bafe73",
+      "maxSeq": 103,
+      "rows": 104
+    },
+    {
+      "remoteId": "session-14da1514-a370-4b09-a8ae-b922dd3336bc",
+      "maxSeq": 88,
+      "rows": 89
+    }
+  ],
+  "counts": {
+    "files": 5,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-21T03:13:29.698Z"
+}
