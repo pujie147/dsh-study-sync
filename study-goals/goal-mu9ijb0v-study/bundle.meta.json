@@ -7,12 +7,12 @@
   "title": "学习软考中级设计师",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-22T02:55:54.875Z",
+  "exportedAt": "2026-09-22T08:24:01.781Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "d2337b5873aa4eb7f301681e66c08ee9f6d8aa942be6cbd4c48d0ba970b46a5a",
-  "zipBytes": 2299326,
-  "zipSha256": "feb22d53a7ec50e9c395aafa1b0c1fbe013ff1c747cb52fb022b1858d3243fad",
-  "zipBlobSha": "0ffb26eea30d0233fe3766778309880ef5f61de4",
+  "digest": "b268adc8092d4e0b791ae68cede43e61314385a862e0e243f3d46a25ffd86c39",
+  "zipBytes": 2817542,
+  "zipSha256": "49d7fe5cf8cc575b30edf255501a49de9d1b6ecdc49fc61e28cd8f3048084d9c",
+  "zipBlobSha": "3b7424f3995f63e5b8ee25cdbbe41a123c1c8cd0",
   "sessions": [
     {
       "remoteId": "2104204f-1156-42ec-af7d-5871c68bbfd5",
@@ -28,6 +28,11 @@
       "remoteId": "43f2d7a4-6204-44cf-a1a4-cb9a9b2a4065",
       "maxSeq": 175,
       "rows": 176
+    },
+    {
+      "remoteId": "50265821-b261-4099-b654-5fb938773ff1",
+      "maxSeq": 17,
+      "rows": 18
     },
     {
       "remoteId": "52a2e950-753b-415e-b585-76c4da691bc3",
@@ -65,6 +70,16 @@
       "rows": 28
     },
     {
+      "remoteId": "965aa8d1-951b-444d-999e-7f7fd2f6abff",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "971fe9e7-beb4-4f0c-8b55-172c2f7fcb4b",
+      "maxSeq": 22,
+      "rows": 23
+    },
+    {
       "remoteId": "972b5caf-beb8-4a99-87e7-a12619333c4d",
       "maxSeq": 27,
       "rows": 28
@@ -85,6 +100,21 @@
       "rows": 173
     },
     {
+      "remoteId": "session-08978a56-ae07-46ae-9c94-773915fbdaa1",
+      "maxSeq": 40,
+      "rows": 41
+    },
+    {
+      "remoteId": "session-a26c2d46-cf36-4460-8083-de649f41570e",
+      "maxSeq": 35,
+      "rows": 36
+    },
+    {
+      "remoteId": "session-a9577a4c-ecbf-4a71-b8d0-29c08996c6ca",
+      "maxSeq": 29,
+      "rows": 30
+    },
+    {
       "remoteId": "session-b469cb4c-969c-4ecd-9126-400a0620bfea",
       "maxSeq": 620,
       "rows": 621
@@ -103,11 +133,21 @@
       "remoteId": "session-eec30209-d707-4c53-9d04-e8bd3719abb6",
       "maxSeq": 144,
       "rows": 145
+    },
+    {
+      "remoteId": "session-efd51dda-e1a6-42ff-9fb3-6a89f129b692",
+      "maxSeq": 70,
+      "rows": 71
+    },
+    {
+      "remoteId": "session-f648f706-0d10-4d01-b214-ab9e0a266e1b",
+      "maxSeq": 29,
+      "rows": 30
     }
   ],
   "counts": {
-    "files": 40,
+    "files": 49,
     "attachments": 0
   },
-  "pushedAt": "2026-09-22T02:55:54.893Z"
+  "pushedAt": "2026-09-22T08:24:01.800Z"
 }
