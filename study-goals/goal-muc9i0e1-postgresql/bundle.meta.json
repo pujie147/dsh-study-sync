@@ -7,17 +7,17 @@
   "title": "学习使用postgresql企业级开发",
   "status": "approved",
   "chapters": 10,
-  "exportedAt": "2026-09-22T06:00:55.766Z",
+  "exportedAt": "2026-09-22T08:24:21.092Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "75bc9d3bf5883cf3c87cd8b161774055b5157152f58b8c04f4d607d52bc27a66",
-  "zipBytes": 210514,
-  "zipSha256": "549c9857a9bc5b833d6f6e59f563659479d195b4cc4895461d06fac6e00fab9f",
-  "zipBlobSha": "3f71c43a2210264e130498884c653a21c798db7c",
+  "digest": "6473e0c4347c3c6b57f098926e04bd1bb91e0d62c078a489a203a1469e121eb9",
+  "zipBytes": 233413,
+  "zipSha256": "df26577b0b5f5300d636117cfb083981fd3aee64b975b5f2d9337ea93234f95d",
+  "zipBlobSha": "8812e12b84fcc94b31b30c1e4bc16e6c5ae7272c",
   "sessions": [
     {
       "remoteId": "ee3da539-704c-4178-bd3e-30eba301c7df",
-      "maxSeq": 12,
-      "rows": 13
+      "maxSeq": 27,
+      "rows": 28
     },
     {
       "remoteId": "session-9a1cc29e-e25b-4839-894b-d04006d34cfa",
@@ -29,5 +29,5 @@
     "files": 5,
     "attachments": 0
   },
-  "pushedAt": "2026-09-22T06:00:55.774Z"
+  "pushedAt": "2026-09-22T08:24:21.127Z"
 }
