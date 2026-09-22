@@ -7,12 +7,12 @@
   "title": "学习软考中级设计师",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-22T09:12:33.901Z",
+  "exportedAt": "2026-09-22T10:53:14.515Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "0a0437cfceb2a0c0da444acb10d6337eafef989ac4cde0f74741adfc18d77c7d",
-  "zipBytes": 2847357,
-  "zipSha256": "950d59bcdef80fd8b7d0634f84e419b6268501ecd4e326a6887193a578e9d960",
-  "zipBlobSha": "5e99a9409bedcca34663e4c5791c48c045e0ee07",
+  "digest": "69c0203be0dd5eadba4000723f0bc35f730eb4182a85897c2f2902ec6f306d17",
+  "zipBytes": 3089813,
+  "zipSha256": "bdf663521ba340847159b37dede6a2dde0c627c44915a333484162b8c73f3827",
+  "zipBlobSha": "7719f7eeefe8f4df3254ee45edc6cd1987d50b20",
   "sessions": [
     {
       "remoteId": "2104204f-1156-42ec-af7d-5871c68bbfd5",
@@ -90,6 +90,11 @@
       "rows": 28
     },
     {
+      "remoteId": "b9d33dd0-202d-48e3-80eb-3594c90326d5",
+      "maxSeq": 37,
+      "rows": 38
+    },
+    {
       "remoteId": "ba55bb3d-552e-4e10-8320-7457bd0b47ee",
       "maxSeq": 208,
       "rows": 209
@@ -116,8 +121,8 @@
     },
     {
       "remoteId": "session-b469cb4c-969c-4ecd-9126-400a0620bfea",
-      "maxSeq": 620,
-      "rows": 621
+      "maxSeq": 695,
+      "rows": 696
     },
     {
       "remoteId": "session-d7783396-df7e-45fa-b19d-ae27950fc407",
@@ -143,11 +148,16 @@
       "remoteId": "session-f648f706-0d10-4d01-b214-ab9e0a266e1b",
       "maxSeq": 30,
       "rows": 31
+    },
+    {
+      "remoteId": "session-f66075e5-69f9-4bb6-a6b2-95de1cc1812c",
+      "maxSeq": 29,
+      "rows": 30
     }
   ],
   "counts": {
-    "files": 49,
+    "files": 52,
     "attachments": 0
   },
-  "pushedAt": "2026-09-22T09:12:33.921Z"
+  "pushedAt": "2026-09-22T10:53:14.542Z"
 }
