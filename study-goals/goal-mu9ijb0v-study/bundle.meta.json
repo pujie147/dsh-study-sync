@@ -7,22 +7,72 @@
   "title": "学习软考中级设计师",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-20T10:02:30.430Z",
+  "exportedAt": "2026-09-22T02:55:54.875Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "e01be4cc0fb613ea921a06a9c23ed6958b77e16f67647d45f325f7d2e0ad72a9",
-  "zipBytes": 740117,
-  "zipSha256": "50f5d00259d106b69eb33dd453727750251d59fda39bea0148bb85f4483e9c30",
-  "zipBlobSha": "21bfd0fb952ad2f918e1f2966dceb42b844f6737",
+  "digest": "d2337b5873aa4eb7f301681e66c08ee9f6d8aa942be6cbd4c48d0ba970b46a5a",
+  "zipBytes": 2299326,
+  "zipSha256": "feb22d53a7ec50e9c395aafa1b0c1fbe013ff1c747cb52fb022b1858d3243fad",
+  "zipBlobSha": "0ffb26eea30d0233fe3766778309880ef5f61de4",
   "sessions": [
+    {
+      "remoteId": "2104204f-1156-42ec-af7d-5871c68bbfd5",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "2cabd6bb-cf83-487f-a478-e2b9c90614d4",
+      "maxSeq": 27,
+      "rows": 28
+    },
     {
       "remoteId": "43f2d7a4-6204-44cf-a1a4-cb9a9b2a4065",
       "maxSeq": 175,
       "rows": 176
     },
     {
+      "remoteId": "52a2e950-753b-415e-b585-76c4da691bc3",
+      "maxSeq": 32,
+      "rows": 33
+    },
+    {
       "remoteId": "649eb59e-8a1b-4caf-aee8-8283fa4750c0",
       "maxSeq": 136,
       "rows": 137
+    },
+    {
+      "remoteId": "721f8d55-0d5c-4a67-aa72-31b476370f95",
+      "maxSeq": 37,
+      "rows": 38
+    },
+    {
+      "remoteId": "7826c931-445f-4d8e-b652-c89428d070ad",
+      "maxSeq": 32,
+      "rows": 33
+    },
+    {
+      "remoteId": "7e9b41b2-8bb5-4540-aa55-326424c9d40e",
+      "maxSeq": 15,
+      "rows": 16
+    },
+    {
+      "remoteId": "807157af-6b99-4b57-a7db-230d9e83f925",
+      "maxSeq": 29,
+      "rows": 30
+    },
+    {
+      "remoteId": "8c749abc-7c39-413d-8813-58580ad46a3b",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "972b5caf-beb8-4a99-87e7-a12619333c4d",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "b211571d-e08c-49de-82b2-8c4793d9ff1c",
+      "maxSeq": 27,
+      "rows": 28
     },
     {
       "remoteId": "ba55bb3d-552e-4e10-8320-7457bd0b47ee",
@@ -36,18 +86,28 @@
     },
     {
       "remoteId": "session-b469cb4c-969c-4ecd-9126-400a0620bfea",
-      "maxSeq": 175,
-      "rows": 176
+      "maxSeq": 620,
+      "rows": 621
     },
     {
       "remoteId": "session-d7783396-df7e-45fa-b19d-ae27950fc407",
       "maxSeq": 177,
       "rows": 178
+    },
+    {
+      "remoteId": "session-e2fd22bb-957e-470c-902f-b87f77d38809",
+      "maxSeq": 39,
+      "rows": 40
+    },
+    {
+      "remoteId": "session-eec30209-d707-4c53-9d04-e8bd3719abb6",
+      "maxSeq": 144,
+      "rows": 145
     }
   ],
   "counts": {
-    "files": 10,
+    "files": 40,
     "attachments": 0
   },
-  "pushedAt": "2026-09-20T10:02:30.438Z"
+  "pushedAt": "2026-09-22T02:55:54.893Z"
 }
