@@ -7,17 +7,22 @@
   "title": "为了更高的学习AI知识，需要补齐预科知识的学习",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-20T09:52:47.542Z",
+  "exportedAt": "2026-09-22T02:54:46.664Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "8bdbb4ce2558705163c6611c54732982c56e6f0dd08291a3e98f26dff3326f4c",
-  "zipBytes": 2399905,
-  "zipSha256": "76d42a674842775164efe65924484bce899b825070138cb0cbf600024887641e",
-  "zipBlobSha": "b6c744c309b0bd5c3530fc722a0b1cdb7371d79f",
+  "digest": "d9701955610a052215b34822a0e89ea7b9094b6870a413a357161539ae35054b",
+  "zipBytes": 2777013,
+  "zipSha256": "496844280243d1d8fcb37cea7afc53764792ab517c721849c327a696b1b7fe82",
+  "zipBlobSha": "7d95da2c2ed7a125a9a1fb968d7e1ba3a74069e7",
   "sessions": [
     {
       "remoteId": "0e849787-ff2d-44b5-b112-7846a20a63f1",
       "maxSeq": 72,
       "rows": 73
+    },
+    {
+      "remoteId": "293f1fbf-e1ac-46b9-8dd3-aab60705c353",
+      "maxSeq": 32,
+      "rows": 33
     },
     {
       "remoteId": "39f9032e-d450-41a5-bf23-2025449cdab5",
@@ -61,8 +66,8 @@
     },
     {
       "remoteId": "session-b57c66bb-cc31-4b9a-81fb-c2cd30671f6e",
-      "maxSeq": 412,
-      "rows": 413
+      "maxSeq": 669,
+      "rows": 670
     },
     {
       "remoteId": "session-f2f6cb67-4e41-4d6a-8688-2f49033f32d7",
@@ -71,8 +76,8 @@
     }
   ],
   "counts": {
-    "files": 50,
+    "files": 64,
     "attachments": 0
   },
-  "pushedAt": "2026-09-20T09:52:47.560Z"
+  "pushedAt": "2026-09-22T02:54:46.685Z"
 }
