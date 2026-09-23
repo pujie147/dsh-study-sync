@@ -7,12 +7,12 @@
   "title": "学习软考中级设计师",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-22T10:53:14.515Z",
+  "exportedAt": "2026-09-23T09:50:15.891Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "69c0203be0dd5eadba4000723f0bc35f730eb4182a85897c2f2902ec6f306d17",
-  "zipBytes": 3089813,
-  "zipSha256": "bdf663521ba340847159b37dede6a2dde0c627c44915a333484162b8c73f3827",
-  "zipBlobSha": "7719f7eeefe8f4df3254ee45edc6cd1987d50b20",
+  "digest": "fbff9492be0e4ff8f3e8157e50dcf20e92f65f87cc92c32649190f75814c4866",
+  "zipBytes": 3376067,
+  "zipSha256": "45b51fe2920393a8c1fc0f2660672ff309d70c4844fa0173eacaffa3511dfb6e",
+  "zipBlobSha": "53c21d36ca9235b155ba434c46140eadcef811ed",
   "sessions": [
     {
       "remoteId": "2104204f-1156-42ec-af7d-5871c68bbfd5",
@@ -38,6 +38,11 @@
       "remoteId": "52a2e950-753b-415e-b585-76c4da691bc3",
       "maxSeq": 32,
       "rows": 33
+    },
+    {
+      "remoteId": "5d851abc-ad41-49f9-ab2d-59fd03ac9763",
+      "maxSeq": 27,
+      "rows": 28
     },
     {
       "remoteId": "649eb59e-8a1b-4caf-aee8-8283fa4750c0",
@@ -66,6 +71,11 @@
     },
     {
       "remoteId": "8c749abc-7c39-413d-8813-58580ad46a3b",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "8f44812d-3240-4c6c-a6d2-bc8cc4a5add0",
       "maxSeq": 27,
       "rows": 28
     },
@@ -121,8 +131,13 @@
     },
     {
       "remoteId": "session-b469cb4c-969c-4ecd-9126-400a0620bfea",
-      "maxSeq": 695,
-      "rows": 696
+      "maxSeq": 756,
+      "rows": 757
+    },
+    {
+      "remoteId": "session-b6560932-1331-4239-bca2-b9ba06b0875c",
+      "maxSeq": 3,
+      "rows": 4
     },
     {
       "remoteId": "session-d7783396-df7e-45fa-b19d-ae27950fc407",
@@ -151,13 +166,13 @@
     },
     {
       "remoteId": "session-f66075e5-69f9-4bb6-a6b2-95de1cc1812c",
-      "maxSeq": 29,
-      "rows": 30
+      "maxSeq": 67,
+      "rows": 68
     }
   ],
   "counts": {
-    "files": 52,
+    "files": 55,
     "attachments": 0
   },
-  "pushedAt": "2026-09-22T10:53:14.542Z"
+  "pushedAt": "2026-09-23T09:50:15.920Z"
 }
