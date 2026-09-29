@@ -5,14 +5,14 @@
   "remoteGoalId": "goal-mu9p96wn-ai",
   "goalLocalIdHint": "goal-mu9p96wn-ai",
   "title": "企业级AI应用落地",
-  "status": "approved",
+  "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-09-21T03:13:29.691Z",
+  "exportedAt": "2026-09-29T08:45:53.260Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "3e3cdba760e033e53b17ee4ffb07915c12a3d9d47e9c43c4fc12cdfdda2b6d13",
-  "zipBytes": 263377,
-  "zipSha256": "1877dbf2c14aaa94e0f9e41b2c3291fe3e0cb06be80e29f9de5a2454d2598f04",
-  "zipBlobSha": "8cb6afa0242da54f418d9e516c317823bdff3675",
+  "digest": "82ac654d9339e2075752d808f9e703dd418c3e7ad901263fc37b6576d6f99410",
+  "zipBytes": 1188959,
+  "zipSha256": "142a4b0b3f0d85caa37580a6bf09b83b5899213907856e8c2fc0819be3b3a5b1",
+  "zipBlobSha": "94936d827eb55acc47582a5326e863670e5c2786",
   "sessions": [
     {
       "remoteId": "1476b5c2-0cd2-4f20-9350-47eed8bafe73",
@@ -20,14 +20,24 @@
       "rows": 104
     },
     {
+      "remoteId": "34d7218a-3713-440c-9a20-3e3428e4767b",
+      "maxSeq": 37,
+      "rows": 38
+    },
+    {
+      "remoteId": "session-07311356-0fb2-400c-9c73-6c5434ee947a",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
       "remoteId": "session-14da1514-a370-4b09-a8ae-b922dd3336bc",
-      "maxSeq": 88,
-      "rows": 89
+      "maxSeq": 355,
+      "rows": 356
     }
   ],
   "counts": {
-    "files": 5,
+    "files": 17,
     "attachments": 0
   },
-  "pushedAt": "2026-09-21T03:13:29.698Z"
+  "pushedAt": "2026-09-29T08:45:53.277Z"
 }
