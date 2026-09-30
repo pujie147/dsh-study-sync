@@ -1,0 +1,48 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-muntj636-study",
+  "goalLocalIdHint": "goal-muntj636-study",
+  "title": "逆向工程（软件/二进制逆向基础）",
+  "status": "active",
+  "chapters": 9,
+  "exportedAt": "2026-09-30T10:19:01.878Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "7a70ad41faf542e184a1edc341c82c7163cf2d97eb18455f9cc5320f95c30a13",
+  "zipBytes": 1498212,
+  "zipSha256": "df0b19596e8e33ec4e7e63c6be01cce9b9c889a41324596384e0efb105e61fd3",
+  "zipBlobSha": "f9c41fe241da5243950fd728ce66f87aac2c9139",
+  "sessions": [
+    {
+      "remoteId": "472016c6-7838-4359-a55d-f1ec54807c17",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "d6e8221e-8844-44b1-aab4-5ccb61806d27",
+      "maxSeq": 15,
+      "rows": 16
+    },
+    {
+      "remoteId": "e17e430f-fc8b-4beb-90e5-1f0898fdaa6e",
+      "maxSeq": 37,
+      "rows": 38
+    },
+    {
+      "remoteId": "session-14a13e98-d937-4941-be45-f208535eba61",
+      "maxSeq": 36,
+      "rows": 37
+    },
+    {
+      "remoteId": "session-d33f7869-ef4e-4945-9aee-f318a4be0029",
+      "maxSeq": 806,
+      "rows": 807
+    }
+  ],
+  "counts": {
+    "files": 17,
+    "attachments": 0
+  },
+  "pushedAt": "2026-09-30T10:19:01.903Z"
+}
