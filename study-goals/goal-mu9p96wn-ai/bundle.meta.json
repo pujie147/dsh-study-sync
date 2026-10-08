@@ -7,12 +7,12 @@
   "title": "企业级AI应用落地",
   "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-10-08T05:53:26.456Z",
+  "exportedAt": "2026-10-08T09:27:23.274Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "39b292bd573bce0cac38c7b8ac60eec8484b9dabfca60a80e779fb68280023a5",
-  "zipBytes": 1754769,
-  "zipSha256": "4f99d7c40626c1a8a6b0860c7aa491a0aa21c740f37de43635162f2abe76a703",
-  "zipBlobSha": "c1667b8494c6c5296743c4761b58b569b6eb3822",
+  "digest": "af0ab9c6a09a18b1e70b4846a3288fe2f75571e7029495abe4a9362613104d01",
+  "zipBytes": 923518,
+  "zipSha256": "d61d09ff754715add7cc13db39785ee71a01499fe757151c60c4ef01bc759ff6",
+  "zipBlobSha": "55967d73c70940ad0fdbcf9dfcc3e429aab3ed24",
   "sessions": [
     {
       "remoteId": "1476b5c2-0cd2-4f20-9350-47eed8bafe73",
@@ -36,8 +36,8 @@
     }
   ],
   "counts": {
-    "files": 19,
+    "files": 17,
     "attachments": 0
   },
-  "pushedAt": "2026-10-08T05:53:26.501Z"
+  "pushedAt": "2026-10-08T09:27:23.289Z"
 }
