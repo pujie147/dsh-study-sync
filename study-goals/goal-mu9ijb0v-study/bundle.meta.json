@@ -7,12 +7,12 @@
   "title": "学习软考中级设计师",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-09-29T08:44:54.813Z",
+  "exportedAt": "2026-10-08T05:46:02.007Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "cfcae5913ee526f714da9d4425ca23be5073cff2a063bc48c516407bcb80709b",
-  "zipBytes": 3614337,
-  "zipSha256": "fbbc4048c8e0d786208c4600092fc9e58f8399d89abb79e6bec2e175f517b99d",
-  "zipBlobSha": "c1818e4a69a336f26902400980aba324dc20df53",
+  "digest": "914bb523e3665d48e8c96057f205c21607c1a966c69b880af1eac6d7fbefac10",
+  "zipBytes": 4172633,
+  "zipSha256": "d2d20afbec317e71d51465117a5f4d0134f66343362cea4da04314642bf7a958",
+  "zipBlobSha": "7be3b032a70f059293314fd39b7a6bb89ae58caf",
   "sessions": [
     {
       "remoteId": "01dca3d9-9ee7-476c-a2a6-798a81e68d25",
@@ -176,13 +176,13 @@
     },
     {
       "remoteId": "session-f66075e5-69f9-4bb6-a6b2-95de1cc1812c",
-      "maxSeq": 165,
-      "rows": 166
+      "maxSeq": 166,
+      "rows": 167
     }
   ],
   "counts": {
-    "files": 58,
+    "files": 68,
     "attachments": 0
   },
-  "pushedAt": "2026-09-29T08:44:54.838Z"
+  "pushedAt": "2026-10-08T05:46:02.047Z"
 }
