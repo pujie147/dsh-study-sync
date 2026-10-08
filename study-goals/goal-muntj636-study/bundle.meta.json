@@ -7,12 +7,12 @@
   "title": "逆向工程（软件/二进制逆向基础）",
   "status": "active",
   "chapters": 9,
-  "exportedAt": "2026-09-30T10:19:01.878Z",
+  "exportedAt": "2026-10-08T05:53:45.078Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "7a70ad41faf542e184a1edc341c82c7163cf2d97eb18455f9cc5320f95c30a13",
-  "zipBytes": 1498212,
-  "zipSha256": "df0b19596e8e33ec4e7e63c6be01cce9b9c889a41324596384e0efb105e61fd3",
-  "zipBlobSha": "f9c41fe241da5243950fd728ce66f87aac2c9139",
+  "digest": "30b2a2e253bd2207d4e42ea22fa7aeacb6112c0b9aeb6344e0c14da16b31bdca",
+  "zipBytes": 2265530,
+  "zipSha256": "acd44faf8f23fbb121efac18671593a3cb7828dcaed7c44ea7d05e4413692bec",
+  "zipBlobSha": "868c9fdf4d412ee47d748b3f8589e69eaabcf670",
   "sessions": [
     {
       "remoteId": "472016c6-7838-4359-a55d-f1ec54807c17",
@@ -31,18 +31,18 @@
     },
     {
       "remoteId": "session-14a13e98-d937-4941-be45-f208535eba61",
-      "maxSeq": 36,
-      "rows": 37
+      "maxSeq": 37,
+      "rows": 38
     },
     {
       "remoteId": "session-d33f7869-ef4e-4945-9aee-f318a4be0029",
-      "maxSeq": 806,
-      "rows": 807
+      "maxSeq": 807,
+      "rows": 808
     }
   ],
   "counts": {
-    "files": 17,
+    "files": 19,
     "attachments": 0
   },
-  "pushedAt": "2026-09-30T10:19:01.903Z"
+  "pushedAt": "2026-10-08T05:53:45.123Z"
 }
