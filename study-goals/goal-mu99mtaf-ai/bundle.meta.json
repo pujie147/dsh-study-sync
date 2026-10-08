@@ -7,12 +7,12 @@
   "title": "为了更高的学习AI知识，需要补齐预科知识的学习",
   "status": "active",
   "chapters": 8,
-  "exportedAt": "2026-10-08T05:45:07.295Z",
+  "exportedAt": "2026-10-08T09:26:16.658Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "d3beaf126f74b17a9a587ba2a545cfc773cef31e60012e293a1bfe593054c881",
-  "zipBytes": 3361512,
-  "zipSha256": "bfeee3357edfe184028a79e0ce13e4155eb5e235e9943df381ae87cf3ea49d84",
-  "zipBlobSha": "1f5256655002c96ef5ee1f072c2bde89aeb5fd49",
+  "digest": "80288ffa384c4ab2413f0784b11c758b73cc961e1ba683ce0e138c1fd40c45f0",
+  "zipBytes": 2327566,
+  "zipSha256": "8d15926b89af17f0236646b813d8f622a72529419df125280d515c00d37630eb",
+  "zipBlobSha": "df55b601b9dfb3a35ed19100fa84677f62db8de6",
   "sessions": [
     {
       "remoteId": "0e849787-ff2d-44b5-b112-7846a20a63f1",
@@ -76,8 +76,8 @@
     }
   ],
   "counts": {
-    "files": 68,
+    "files": 64,
     "attachments": 0
   },
-  "pushedAt": "2026-10-08T05:45:07.332Z"
+  "pushedAt": "2026-10-08T09:26:16.681Z"
 }
