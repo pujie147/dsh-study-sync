@@ -7,12 +7,12 @@
   "title": "企业级AI应用落地",
   "status": "active",
   "chapters": 10,
-  "exportedAt": "2026-09-29T08:45:53.260Z",
+  "exportedAt": "2026-10-08T05:53:26.456Z",
   "deviceId": "dev-mu6ku1l2-d9lmye40",
-  "digest": "82ac654d9339e2075752d808f9e703dd418c3e7ad901263fc37b6576d6f99410",
-  "zipBytes": 1188959,
-  "zipSha256": "142a4b0b3f0d85caa37580a6bf09b83b5899213907856e8c2fc0819be3b3a5b1",
-  "zipBlobSha": "94936d827eb55acc47582a5326e863670e5c2786",
+  "digest": "39b292bd573bce0cac38c7b8ac60eec8484b9dabfca60a80e779fb68280023a5",
+  "zipBytes": 1754769,
+  "zipSha256": "4f99d7c40626c1a8a6b0860c7aa491a0aa21c740f37de43635162f2abe76a703",
+  "zipBlobSha": "c1667b8494c6c5296743c4761b58b569b6eb3822",
   "sessions": [
     {
       "remoteId": "1476b5c2-0cd2-4f20-9350-47eed8bafe73",
@@ -26,18 +26,18 @@
     },
     {
       "remoteId": "session-07311356-0fb2-400c-9c73-6c5434ee947a",
-      "maxSeq": 27,
-      "rows": 28
+      "maxSeq": 28,
+      "rows": 29
     },
     {
       "remoteId": "session-14da1514-a370-4b09-a8ae-b922dd3336bc",
-      "maxSeq": 355,
-      "rows": 356
+      "maxSeq": 356,
+      "rows": 357
     }
   ],
   "counts": {
-    "files": 17,
+    "files": 19,
     "attachments": 0
   },
-  "pushedAt": "2026-09-29T08:45:53.277Z"
+  "pushedAt": "2026-10-08T05:53:26.501Z"
 }
