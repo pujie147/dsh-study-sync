@@ -1,0 +1,53 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mvkol9y8-ostep",
+  "goalLocalIdHint": "goal-mvkol9y8-ostep",
+  "title": "参考《OSTEP》学习操作系统的知识",
+  "status": "active",
+  "chapters": 9,
+  "exportedAt": "2026-10-23T08:56:22.504Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "dc4aa5caa71ba7f95538c406e133c07d01942fc878af281311521d31af16047d",
+  "zipBytes": 1154883,
+  "zipSha256": "60acbde8c329c97da7eb08d84877c7b115746bce4c3b45d05f68430a2cea4a29",
+  "zipBlobSha": "0418948b2322a197bf80f2faaf3722c749b85789",
+  "sessions": [
+    {
+      "remoteId": "290a067e-f2fc-445c-a81c-df2fdb05cebc",
+      "maxSeq": 20,
+      "rows": 21
+    },
+    {
+      "remoteId": "9594270b-4bf3-4d19-918a-577f180ed334",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "ecb00b26-15d1-4e0b-b8eb-3a02819eaf61",
+      "maxSeq": 30,
+      "rows": 31
+    },
+    {
+      "remoteId": "session-27ee367f-73fe-4260-9852-597ad114cbd7",
+      "maxSeq": 539,
+      "rows": 540
+    },
+    {
+      "remoteId": "session-29262374-47c5-4e1f-9e85-c6d21ce972e7",
+      "maxSeq": 28,
+      "rows": 29
+    },
+    {
+      "remoteId": "session-6b01d035-4e0b-477a-99da-0d8ad4ae284a",
+      "maxSeq": 23,
+      "rows": 24
+    }
+  ],
+  "counts": {
+    "files": 27,
+    "attachments": 0
+  },
+  "pushedAt": "2026-10-23T08:56:22.520Z"
+}
