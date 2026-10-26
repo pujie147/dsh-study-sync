@@ -1,0 +1,38 @@
+{
+  "kind": "dsh-study-sync-bundle",
+  "schemaVersion": 1,
+  "tool": "study-plugin",
+  "remoteGoalId": "goal-mvkqjfto-ostep-xv6",
+  "goalLocalIdHint": "goal-mvkqjfto-ostep-xv6",
+  "title": "手搓操作系统（基于 OSTEP 课程的 xv6 实验链）",
+  "status": "approved",
+  "chapters": 10,
+  "exportedAt": "2026-10-26T07:17:10.657Z",
+  "deviceId": "dev-mu6ku1l2-d9lmye40",
+  "digest": "653c58a39e7aae2d69f7030e2919f2ab6e1feffd9b11f4495560d7e2098af2a2",
+  "zipBytes": 832228,
+  "zipSha256": "339d20e9695a543b511d012048a60c3eaa71c827af2a10409c02499d1a978ad2",
+  "zipBlobSha": "738a791f4b6d669feb6697c9b37aa276d1adfb86",
+  "sessions": [
+    {
+      "remoteId": "9e655c46-09f9-4134-ad2b-eb3aa56af018",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "9e990a95-7c1e-4232-95d3-e9ba32bbf97b",
+      "maxSeq": 27,
+      "rows": 28
+    },
+    {
+      "remoteId": "session-c79ff520-3879-452d-8b3b-a5919a5b30b6",
+      "maxSeq": 454,
+      "rows": 455
+    }
+  ],
+  "counts": {
+    "files": 16,
+    "attachments": 0
+  },
+  "pushedAt": "2026-10-26T07:17:10.665Z"
+}
